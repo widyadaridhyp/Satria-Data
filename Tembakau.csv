@@ -1,0 +1,217 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,66643479,,,0
+H5,2020,2020,2020,2,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2994780,,,0
+H5,2020,2020,2020,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,85511839,,,0
+H5,2020,2020,2020,2,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,14693074,,,0
+H5,2020,2020,2020,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,59986110,,,0
+H5,2020,2020,2020,2,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,197880949,,,0
+H5,2020,2020,2020,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,627581594,,,4
+H5,2020,2020,2020,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,26404909,,,4
+H5,2020,2020,2020,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,312846390,,,4
+H5,2020,2020,2020,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,1052668,,,4
+H5,2020,2020,2020,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,125942942,,,0
+H5,2020,2020,2020,2,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,254597885,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,51,Armenia,ARM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,4098983,,,0
+H5,2020,2020,2020,2,0,4,Re-Import,51,Armenia,ARM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,231200,,,0
+H5,2020,2020,2020,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,4231264,,,4
+H5,2020,2020,2020,2,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,692034,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,52,Barbados,BRB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,691064,,,0
+H5,2020,2020,2020,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,670713764,,,4
+H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,514022805,,,4
+H5,2020,2020,2020,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2752619,,,0
+H5,2020,2020,2020,2,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,189338,,,0
+H5,2020,2020,2020,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,14865564,,,0
+H5,2020,2020,2020,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,37421,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,34682,,,0
+H5,2020,2020,2020,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,45585704,,,0
+H5,2020,2020,2020,2,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2695730,,,0
+H5,2020,2020,2020,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,18706562,,,0
+H5,2020,2020,2020,2,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1936584,,,4
+H5,2020,2020,2020,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,49901975,,,4
+H5,2020,2020,2020,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1638179183,,,4
+H5,2020,2020,2020,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,49603534,,,4
+H5,2020,2020,2020,2,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,6154623,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,6154623,,,0
+H5,2020,2020,2020,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,54534670,,,0
+H5,2020,2020,2020,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,47811174,,,0
+H5,2020,2020,2020,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,199990975,,,0
+H5,2020,2020,2020,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,167162649,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,7208826,,,0
+H5,2020,2020,2020,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,65448022,,,0
+H5,2020,2020,2020,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,91801189,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,6532513,,,0
+H5,2020,2020,2020,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1166539213,,,4
+H5,2020,2020,2020,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,778752306,,,4
+H5,2020,2020,2020,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,113791310,,,0
+H5,2020,2020,2020,2,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,17997178,,,0
+H5,2020,2020,2020,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,195710507,,,0
+H5,2020,2020,2020,2,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,185685962,,,4
+H5,2020,2020,2020,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,95601667,,,0
+H5,2020,2020,2020,2,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,28890209,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,28860674,,,0
+H5,2020,2020,2020,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,557482668,,,4
+H5,2020,2020,2020,2,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1012918267,,,4
+H5,2020,2020,2020,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,149877084,,,0
+H5,2020,2020,2020,2,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,223767762,,,4
+H5,2020,2020,2020,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,16982492,,,0
+H5,2020,2020,2020,2,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,330220,,,0
+H5,2020,2020,2020,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,45144993,,,0
+H5,2020,2020,2020,2,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,7660165,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,233,Estonia,EST,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,71365,,,0
+H5,2020,2020,2020,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,123864986,,,4
+H5,2020,2020,2020,2,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2383872,,,4
+H5,2020,2020,2020,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1796366886,,,4
+H5,2020,2020,2020,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,524265585,,,4
+H5,2020,2020,2020,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,100609499,,,0
+H5,2020,2020,2020,2,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,44064232,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,268,Georgia,GEO,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,43914535,,,0
+H5,2020,2020,2020,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,3038694845,,,4
+H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2864858687,,,4
+H5,2020,2020,2020,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,326008352,,,0
+H5,2020,2020,2020,2,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,628194607,,,0
+H5,2020,2020,2020,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,15687322,,,0
+H5,2020,2020,2020,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,47830934,,,0
+H5,2020,2020,2020,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,5669536,,,0
+H5,2020,2020,2020,2,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,28425,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,4999,,,0
+H5,2020,2020,2020,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,563650224,,,4
+H5,2020,2020,2020,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,576324102,,,4
+H5,2020,2020,2020,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,355681251,,,4
+H5,2020,2020,2020,2,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,251905716,,,4
+H5,2020,2020,2020,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,24724790,,,4
+H5,2020,2020,2020,2,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,307427,,,4
+H5,2020,2020,2020,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,664318484,,,0
+H5,2020,2020,2020,2,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1150718661,,,0
+H5,2020,2020,2020,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,67658579,,,4
+H5,2020,2020,2020,2,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,679009,,,0
+H5,2020,2020,2020,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,269812000,,,4
+H5,2020,2020,2020,2,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,459000,,,4
+H5,2020,2020,2020,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2197181390,,,0
+H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2055765159,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,381,Italy,ITA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,11530533,,,0
+H5,2020,2020,2020,2,0,4,Re-Import,381,Italy,ITA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,3042680,,,0
+H5,2020,2020,2020,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,5441751009,,,0
+H5,2020,2020,2020,2,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,133155301,,,0
+H5,2020,2020,2020,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,75222817,,,4
+H5,2020,2020,2020,2,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,41587583,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,400,Jordan,JOR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,4776306,,,0
+H5,2020,2020,2020,2,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,16598060,,,4
+H5,2020,2020,2020,2,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,154688216,,,0
+H5,2020,2020,2020,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,408207802,,,4
+H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1042303127,,,4
+H5,2020,2020,2020,2,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,53272368,,,4
+H5,2020,2020,2020,2,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,13153901,,,0
+H5,2020,2020,2020,2,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,66743478,,,0
+H5,2020,2020,2020,2,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,30226495,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2024449,,,0
+H5,2020,2020,2020,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,128943250,,,4
+H5,2020,2020,2020,2,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,69924890,,,4
+H5,2020,2020,2020,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,235684850,,,0
+H5,2020,2020,2020,2,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,996023726,,,0
+H5,2020,2020,2020,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,280134899,,,0
+H5,2020,2020,2020,2,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,114913325,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,27667,,,0
+H5,2020,2020,2020,2,0,4,Re-Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,13009,,,0
+H5,2020,2020,2020,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,43575959,,,4
+H5,2020,2020,2020,2,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,568787,,,0
+H5,2020,2020,2020,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,209138835,,,0
+H5,2020,2020,2020,2,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,78878602,,,0
+H5,2020,2020,2020,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,53072970,,,0
+H5,2020,2020,2020,2,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2208165,,,0
+H5,2020,2020,2020,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,266799434,,,4
+H5,2020,2020,2020,2,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,127771120,,,4
+H5,2020,2020,2020,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,51967577,,,4
+H5,2020,2020,2020,2,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,8587298,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,7317811,,,0
+H5,2020,2020,2020,2,0,4,Re-Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,98606,,,0
+H5,2020,2020,2020,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,15649953,,,0
+H5,2020,2020,2020,2,0,2,Export,499,Montenegro,MNE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,4531938,,,0
+H5,2020,2020,2020,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,43448459,,,4
+H5,2020,2020,2020,2,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,4491762,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,516,Namibia,NAM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,4452024,,,0
+H5,2020,2020,2020,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,908149596,,,4
+H5,2020,2020,2020,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1098983735,,,4
+H5,2020,2020,2020,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,101727689,,,4
+H5,2020,2020,2020,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,39419522,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,12040987,,,0
+H5,2020,2020,2020,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,537297631,,,0
+H5,2020,2020,2020,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1968028,,,0
+H5,2020,2020,2020,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,12103257,,,4
+H5,2020,2020,2020,2,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,56166656,,,4
+H5,2020,2020,2020,2,0,4,Re-Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,3225,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,251353452,,,0
+H5,2020,2020,2020,2,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,446371271,,,4
+H5,2020,2020,2020,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1236830281,,,4
+H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,4809205118,,,4
+H5,2020,2020,2020,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,275513202,,,4
+H5,2020,2020,2020,2,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,784480799,,,4
+H5,2020,2020,2020,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,48309708,,,0
+H5,2020,2020,2020,2,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,103595,,,0
+H5,2020,2020,2020,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,404899535,,,4
+H5,2020,2020,2020,2,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1566213066,,,4
+H5,2020,2020,2020,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,42852974,,,0
+H5,2020,2020,2020,2,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,62652178,,,0
+H5,2020,2020,2020,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,246242449,,,4
+H5,2020,2020,2020,2,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,450444823,,,4
+H5,2020,2020,2020,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,45993996,,,4
+H5,2020,2020,2020,2,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,847752922,,,4
+H5,2020,2020,2020,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,627864672,,,4
+H5,2020,2020,2020,2,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,675392566,,,4
+H5,2020,2020,2020,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,214536239,,,4
+H5,2020,2020,2020,2,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,13375466,,,4
+H5,2020,2020,2020,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,240578563,,,4
+H5,2020,2020,2020,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,232072411,,,4
+H5,2020,2020,2020,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,123873934,,,0
+H5,2020,2020,2020,2,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,4155269,,,0
+H5,2020,2020,2020,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,115106422,,,0
+H5,2020,2020,2020,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,205920421,,,4
+H5,2020,2020,2020,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,18370845,,,0
+H5,2020,2020,2020,2,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,794956990,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,11807598,,,0
+H5,2020,2020,2020,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1690240894,,,4
+H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,241763239,,,4
+H5,2020,2020,2020,2,0,4,Re-Import,724,Spain,ESP,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,11999,,,0
+H5,2020,2020,2020,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,240309457,,,4
+H5,2020,2020,2020,2,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,456644954,,,4
+H5,2020,2020,2020,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,283725892,,,4
+H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,449285570,,,4
+H5,2020,2020,2020,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,274473498,,,4
+H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,167383381,,,4
+H5,2020,2020,2020,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,7049997,,,0
+H5,2020,2020,2020,2,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,317699,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,768,Togo,TGO,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,317699,,,0
+H5,2020,2020,2020,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,665338917,,,0
+H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,909214016,,,0
+H5,2020,2020,2020,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,13324870,,,0
+H5,2020,2020,2020,2,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,49721775,,,0
+H5,2020,2020,2020,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,553837333,,,0
+H5,2020,2020,2020,2,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,441358752,,,0
+H5,2020,2020,2020,2,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,31186041,,,4
+H5,2020,2020,2020,2,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,143345543,,,0
+H5,2020,2020,2020,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,889392777,,,4
+H5,2020,2020,2020,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,16990392,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,100012,,,0
+H5,2020,2020,2020,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2166833408,,,0
+H5,2020,2020,2020,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1043999299,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,165119428,,,0
+H5,2020,2020,2020,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,20295779,,,0
+H5,2020,2020,2020,2,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,21020303,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,858,Uruguay,URY,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,103384,,,0
+H5,2020,2020,2020,2,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,28430468,,,4
+H5,2020,2020,2020,2,0,2,Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,10564348,,,4
+H5,2020,2020,2020,2,0,4,Re-Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,102912,,,0
+H5,2020,2020,2020,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1351396,,,0
+H5,2020,2020,2020,2,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,116638234,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,68528,,,0
+H4,2020,2020,2020,2,0,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,5092683,,,0
+H4,2020,2020,2020,2,0,2,Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,4998534,,,4
+H4,2020,2020,2020,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1467091,,,0
+H4,2020,2020,2020,2,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1572222,,,0
+H4,2020,2020,2020,2,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,88632,,,0
+H4,2020,2020,2020,2,0,3,Re-Export,308,Grenada,GRD,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,88580,,,0
+H4,2020,2020,2020,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,87372071,,,0
+H4,2020,2020,2020,2,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,235458655,,,0
+H4,2020,2020,2020,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,25583457,,,0
+H4,2020,2020,2020,2,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,19806253,,,0
+H4,2020,2020,2020,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,383713268,,,4
+H4,2020,2020,2020,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,89870643,,,4
